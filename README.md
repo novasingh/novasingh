@@ -28,8 +28,8 @@ I am a highly analytical, enthusiastic, and goal-oriented **Frontend Web Develop
 
 Here are some of the technologies and tools I work with:
 
-- **Frontend Development**: HTML, CSS, JavaScript, React, Vue.js, Tailwind CSS
-- **Backend Development**: Node.js, Express.js
+- **Frontend Development**: HTML, CSS, JavaScript, React, Vue.js, Next.js, Angular, React Boostrap, MUI and Tailwind CSS
+- **Backend Development**: Node.js, Express.js, Django
 - **Version Control**: Git, GitHub
 - **Database Management**: MongoDB, MySQL
 - **Tools**: VS Code, Postman, Figma
@@ -41,7 +41,6 @@ Here are some of the technologies and tools I work with:
 #### **Senior Frontend Web Develoepr** @ [Techconciergepro](https://techconciergepro.com/)
 **July 2024 – Present**
 - Working with [desisiv.io](https://www.desisiv.ai/)
-- Developed a Node.js REST API using Express and MongoDB for the Healmefit project.
 - Worked on the Next.js frontend for desisiv.io, creating backend APIs using Python Flask.
 - Mentored junior developers in creating React frontend applications.
 - Conducted code reviews and team discussions for refactoring and optimization.

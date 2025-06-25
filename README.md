@@ -39,7 +39,7 @@ Here are some of the technologies and tools I work with:
 ### 🏢 <u>Professional Experience</u>
 
 #### **Senior Frontend Web Develoepr** @ [Techconciergepro](https://techconciergepro.com/)
-**July 2025 – Present**
+**July 2024 – Present**
 - Working with [desisiv.io](https://www.desisiv.ai/)
 - Developed a Node.js REST API using Express and MongoDB for the Healmefit project.
 - Worked on the Next.js frontend for desisiv.io, creating backend APIs using Python Flask.

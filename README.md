@@ -38,8 +38,8 @@ Here are some of the technologies and tools I work with:
 
 ### 🏢 <u>Professional Experience</u>
 
-#### **Senior Frontend Web Developer** @ [Techconciergepro](https://techconciergepro.com/)
-**July 2024 – Present**
+#### **Senior Frontend Web Developer** @ [WithRemote - Techconciergepro](https://techconciergepro.com/)
+**July 2024 – November 2025**
 - Working with [desisiv.io](https://www.desisiv.ai/)
 - Worked on the Next.js frontend for desisiv.io, creating backend APIs using Python Flask.
 - Mentored junior developers in creating React frontend applications.
